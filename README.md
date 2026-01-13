@@ -8,7 +8,7 @@ The app supports daily, weekly, and monthly goals, visible streaks, and long-ter
 
 For support, bug reports, or feature requests, please **create an issue in this repository**:
 
-👉 https://github.com/edvard-bjarnason/doneday/issues
+👉 https://github.com/edvard-bjarnason/doneday-support/issues
 
 You can also contact us by email:
 
